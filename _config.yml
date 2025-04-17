@@ -13,5 +13,5 @@ plugins:
   - jekyll-seo-tag
 
 # Link custom CSS
-css: "/assets/assets/css/style.css"
+css: "/assets/css/style.css"
 
