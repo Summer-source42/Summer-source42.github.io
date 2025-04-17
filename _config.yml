@@ -3,3 +3,15 @@ avatar : "/assets/img/detmold_pic.jpg"
 descriptions : Cybersecurity Enthusiast | IT Master's Student
 show_downloads : true
 theme : jekyll-theme-minimal
+
+# Add this to enable custom styles
+markdown: kramdown
+sass:
+  style: compressed
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Custom CSS
+include:
+  - assets/css/style.css
