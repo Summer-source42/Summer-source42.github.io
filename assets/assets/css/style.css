@@ -1,8 +1,0 @@
-/* Style for round avatar */
-.avatar {
-    border-radius: 50%;
-    width: 150px;  /* Set desired width */
-    height: 150px; /* Set desired height */
-    object-fit: cover;
-}
-
