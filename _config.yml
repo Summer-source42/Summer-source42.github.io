@@ -12,6 +12,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Custom CSS
-include:
-  - assets/css/style.css
+# Link custom CSS
+css: "/assets/css/style.css"
+
