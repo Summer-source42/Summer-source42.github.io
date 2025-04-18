@@ -21,11 +21,17 @@
 
 I believe in **learning by doing**. Below are some of my hands-on labs and mini-projects designed to simulate real-world security work:
 
-### 🔧 REST API Security Project
-- Built a secure RESTful API using **Python & Flask**
-- Dockerized for deployment, added **JWT authentication** and **logging**
-- Integrated basic rate-limiting & error handling
-> [GitHub Repo](#)
+### 🔧 Azure Honeypot Attack Map (Azure · Sentinel · KQL)
+
+ Project Highlights:
+
+Deployed a virtual honeypot on Microsoft Azure to simulate real-world cyberattacks.
+Integrated the honeypot with Azure Sentinel for advanced threat detection and monitoring.
+Utilized Kusto Query Language (KQL) to analyze security logs and extract meaningful attack patterns.
+Enriched logs with GeoIP data to pinpoint the geographic origin of threats.
+Designed an interactive Attack Map Workbook to visualize failed login attempts globally.
+Gained hands-on experience in cloud security, SIEM integration, and log-based investigation.
+🔗 [Repository Link](https://github.com/Summer-source42/azure-honeypot-attackmap)
 
 ---
 
