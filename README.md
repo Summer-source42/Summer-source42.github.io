@@ -31,7 +31,7 @@ Utilized Kusto Query Language (KQL) to analyze security logs and extract meaning
 Enriched logs with GeoIP data to pinpoint the geographic origin of threats.
 Designed an interactive Attack Map Workbook to visualize failed login attempts globally.
 Gained hands-on experience in cloud security, SIEM integration, and log-based investigation.
-🔗 [Repository Link](https://github.com/Summer-source42/azure-honeypot-attackmap)
+> [GitHub Repo](https://github.com/Summer-source42/azure-honeypot-attackmap)
 
 ---
 
