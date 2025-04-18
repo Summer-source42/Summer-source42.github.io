@@ -40,6 +40,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 - Used **Nessus** and **OpenVAS** to scan vulnerable VMs (like Metasploitable2)
 - Identified and reported vulnerabilities based on **CVSS scores**
 - Documented step-by-step patching and re-scanning
+
 > [GitHub Repo](#)
 
 ---
@@ -48,6 +49,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 - Built a virtual **Active Directory** environment using Windows Server
 - Configured **users, GPOs**, and domain services
 - Simulated basic attacks (e.g., Kerberoasting), and logged them for analysis
+
 > [GitHub Repo](#)
 
 ---
@@ -56,6 +58,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 - Implemented **Azure Sentinel** to collect logs from Windows machines
 - Wrote **KQL queries**, created custom alerts, and built dashboards
 - Integrated basic detection rules and incident simulation
+
 > [GitHub Repo](#)
 
 ---
@@ -64,6 +67,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 - Deployed insecure cloud services on **AWS & Azure**
 - Used **ScoutSuite** & **Prowler** to detect misconfigs
 - Hardened IAM roles, storage policies, and enforced encryption
+
 > [GitHub Repo](#)
 
 ---
@@ -72,6 +76,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 - Solved beginner to intermediate CTFs on TryHackMe
 - Focused on **SOC**, **enumeration**, **web exploitation**, and **privilege escalation**
 - Documented approach, techniques, and lessons learned
+
 > [GitHub Repo](#)
 
 ---
