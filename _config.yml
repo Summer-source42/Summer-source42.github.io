@@ -1,7 +1,7 @@
 title : Naushad Alam
 avatar : "/assets/img/detmold_pic.jpg"
 descriptions : Cybersecurity Enthusiast | IT Master's Student
-show_downloads : true
+show_downloads : false
 #theme : jekyll-theme-minimal
 theme : jekyll-theme-modernist@v0.2.0
 ###remote_theme: pages-themes/modernist@v0.2.0
