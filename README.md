@@ -128,5 +128,5 @@ Gained hands-on experience in cloud security, SIEM integration, and log-based in
 
 ---
 
-> ✨ Thank you for visiting! I'm excited to connect, learn, and grow in the world of cybersecurity!
+> ✨ Thank you for visiting! I'm excited to connect, learn, and grow in the world of cybersecurity!!
 
