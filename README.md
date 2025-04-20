@@ -45,7 +45,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 - 🔍 Log Analysis & Detection**: Developed **detection queries** in **Splunk** to identify malicious activity and lateral movement.
 - 🛡️ Hands-on AD Security**: Gained practical experience in **Active Directory management**, **log aggregation**, and **security detection**.
 
-> [GitHub Repo](#)
+> [GitHub Repo](https://github.com/Summer-source42/active-directory-lab)
 
 ---
 ### 🛡️ Vulnerability Management Lab
