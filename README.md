@@ -126,7 +126,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 ## ✍️ Blog Posts
 
 > Check out my Medium posts on CTFs, lab guides, and learning journeys:  
-- [🔗 How I built a Honeynet](#)  
+- [🔗 How I built a Honeynet](https://medium.com/@iamnaushad/azure-sentinel-honeypot-project-a-real-world-cyberattack-simulation-e68ee446e31a)  
 - [🔗 Getting Started with Azure Sentinel](#)  
 - [🔗 TryHackMe SOC Level 1 — Walkthrough](#)
 
