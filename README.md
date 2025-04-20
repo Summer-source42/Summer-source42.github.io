@@ -35,7 +35,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 > [GitHub Repo](https://github.com/Summer-source42/azure-honeypot-attackmap)
 
 ---
-# 🏢 Active Directory Lab for Threat Simulation and Detection
+## 🏢 Active Directory Lab for Threat Simulation and Detection
 
 **🔑 Project Highlights:**
 
