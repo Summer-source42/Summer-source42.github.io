@@ -31,7 +31,7 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 
 ---
 
-### 🔐 Active Directory Infrastructure Lab (Windows Server · GPO · Splunk · VirtualBox)
+### 🔐 Active Directory Lab (Windows Server · GPO · Splunk · VirtualBox)
 
 - Set up a multi-VM AD lab environment with DHCP, NAT, and DNS roles on Windows Server.
 - Promoted the domain controller and joined client machines to the domain (adlab.local).
