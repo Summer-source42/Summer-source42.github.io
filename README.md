@@ -23,56 +23,32 @@ I believe in **learning by doing**. Below are some of my hands-on labs and mini-
 
 ### 🔧 Azure Honeypot Attack Map (Azure · Sentinel · KQL)
 
- Project Highlights:
-
-- Deployed a virtual honeypot on Microsoft Azure to simulate real-world cyberattacks.
-- Integrated the honeypot with Azure Sentinel for advanced threat detection and monitoring.
-- Utilized Kusto Query Language (KQL) to analyze security logs and extract meaningful attack patterns.
-- Enriched logs with GeoIP data to pinpoint the geographic origin of threats.
-- Designed an interactive Attack Map Workbook to visualize failed login attempts globally.
-- Gained hands-on experience in cloud security, SIEM integration, and log-based investigation.
+- Deployed a honeypot in Azure and integrated with Microsoft Sentinel for real-time monitoring.
+- Tracked 17.2k+ login attempts globally using enriched logs and visualized data using KQL queries.
+- Mapped attack sources and behaviors through custom dashboards and geo-location heatmaps.
 
 > [GitHub Repo](https://github.com/Summer-source42/azure-honeypot-attackmap)
 
 ---
-## 🏢 Active Directory Lab for Threat Simulation and Detection
 
-**🔑 Project Highlights:**
+### 🔐 Active Directory Infrastructure Lab (Windows Server · GPO · Splunk · VirtualBox)
 
-- 🖥️ Setup Active Directory Domain**: Deployed **Windows Server** as Domain Controller with **DNS** and **AD services**.
-- 🔌 Integrated Sysmon & Splunk**: Collected endpoint logs via **Sysmon** and forwarded them to **Splunk** for centralized analysis.
-- 💻 Simulated Real-World Attacks**: Performed attacks like **Kerberoasting**, **Pass-the-Hash**, and **DCSync** using **Kali Linux**.
-- 🔍 Log Analysis & Detection**: Developed **detection queries** in **Splunk** to identify malicious activity and lateral movement.
-- 🛡️ Hands-on AD Security**: Gained practical experience in **Active Directory management**, **log aggregation**, and **security detection**.
+- Set up a multi-VM AD lab environment with DHCP, NAT, and DNS roles on Windows Server.
+- Promoted the domain controller and joined client machines to the domain (adlab.local).
+- Deployed GPOs, installed and configured Splunk for centralized log monitoring.
+- Automated creation of 1000+ users via PowerShell.
 
 > [GitHub Repo](https://github.com/Summer-source42/active-directory-lab)
 
 ---
-### 🛡️ Vulnerability Management Lab
-- Used **Nessus** and **OpenVAS** to scan vulnerable VMs (like Metasploitable2)
-- Identified and reported vulnerabilities based on **CVSS scores**
-- Documented step-by-step patching and re-scanning
 
-> [GitHub Repo](#)
+### 🛡️ File Integrity Monitoring (Windows · PowerShell · SHA512)
 
----
+- Created a PowerShell-based script to monitor file changes in real time.
+- Generated baseline file hashes using SHA-512 and compared against current values.
+- Detected unauthorized file creations, modifications, and deletions with console alerts.
 
-### 🏢 Active Directory Lab
-- Built a virtual **Active Directory** environment using Windows Server
-- Configured **users, GPOs**, and domain services
-- Simulated basic attacks (e.g., Kerberoasting), and logged them for analysis
-
-> [GitHub Repo](#)
-
----
-
-### ☁️ SIEM with Azure Sentinel
-- Implemented **Azure Sentinel** to collect logs from Windows machines
-- Wrote **KQL queries**, created custom alerts, and built dashboards
-- Integrated basic detection rules and incident simulation
-
-> [GitHub Repo](#)
-
+> [GitHub Repo](https://github.com/Summer-source42/file-integrity-monitor)
 ---
 
 ### 🔍 Cloud Misconfiguration Lab
