@@ -125,6 +125,3 @@ Built a PowerShell-based file integrity monitoring tool that baselines file hash
 ---
 
 > ✨ Thanks for stopping by. Always open to connecting with people working in networking, security, and anything in between.
-
-> ✨ Thank you for visiting! I'm excited to connect, learn, and grow in the world of cybersecurity!!
-
