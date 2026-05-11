@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Naushad Alam Network Engineer transitioning into Security Operations
+# 👋 Hey, I'm Naushad Alam,  Network Engineer transitioning into Security Operations
  
 🎓 Pursuing a **Master's in Information Technology** in Germany  
 🌐 Background in **Network Engineering** (CCNA certified) now building deep expertise in **SOC & Blue Team operations**  
